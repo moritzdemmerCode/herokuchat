@@ -1,4 +1,3 @@
 build:
   docker:
-    client: Dockerfile.client
     server: Dockerfile.server

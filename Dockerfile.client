@@ -1,1 +1,1 @@
-FROM https://hub.docker.com/repository/docker/moritzdemmer/chatdhbw_client
+FROM moritzdemmer/chatdhbw_client:latest

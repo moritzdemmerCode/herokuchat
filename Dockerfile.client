@@ -1,0 +1,1 @@
+FROM https://hub.docker.com/repository/docker/moritzdemmer/chatdhbw_client
